@@ -1,57 +1,35 @@
-<h5 align="left">Hi there 👋<br>💬 I'm Mehmet.<br>🔭 I'm working as Expert Software Developer at Vodafone.<br>👀 I'm interested software, robotic process automation, charting, database and programming embedded systems.<br>📺 My youtube channel -> www.youtube.com/@meraklimuhendis<br>📫 How to reach me -> bilgi@mehmetyagizorhan.com</h5>
+# 💫 Hi there 👋
+💬 I'm Mehmet.
+🔭 I'm working as Expert Software Developer at Vodafone.
+👀 I'm interested software, robotic process automation, charting, database and programming embedded systems.
+📺 My youtube channel -> www.youtube.com/@meraklimuhendis
+📫 How to reach me -> bilgi@mehmetyagizorhan.com
+<br>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meraklimuhendis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meraklimuhendis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🌐 Socials:
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCk_O3kkGkbhwtvOCnFR6yLg?logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCk_O3kkGkbhwtvOCnFR6yLg) 
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3670A0.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myagizorhan/) [![Gmail](https://img.shields.io/badge/Gmail-%23EE4C2C.svg?logo=Gmail&logoColor=white)](mailto:myagizorhan@gmail.com) 
 
-<img align="right" height="150" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
+<a href="https://ko-fi.com/meraklimuhendis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-285f86?style=for-the-badge&logo=MySQL&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-c86a70?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-4090df?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
 
-###
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meraklimuhendis&theme=github_dark)
 
-<div align="left">
-  <a href="https://www.youtube.com/@meraklimuhendis" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/meraklimuhendis/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="myagizorhan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mehmetyagizorhan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=meraklimuhendis&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=meraklimuhendis&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meraklimuhendis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=meraklimuhendis&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-<br clear="both">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=meraklimuhendis&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-<img src="https://raw.githubusercontent.com/meraklimuhendis/meraklimuhendis/output/snake.svg" alt="Snake animation" />
-
-###
+---
+[![](https://visitcount.itsvg.in/api?id=meraklimuhendis&icon=0&color=0)](https://visitcount.itsvg.in)
