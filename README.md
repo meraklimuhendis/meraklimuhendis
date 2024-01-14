@@ -1,8 +1,8 @@
 # 💫 Hi there 👋
-💬 I'm Mehmet.
-🔭 I'm working as Expert Software Developer at Vodafone.
-👀 I'm interested software, robotic process automation, charting, database and programming embedded systems.
-📺 My youtube channel -> www.youtube.com/@meraklimuhendis
+💬 I'm Mehmet.<br>
+🔭 I'm working as Expert Software Developer at Vodafone.<br>
+👀 I'm interested software, robotic process automation, charting, database and programming embedded systems.<br>
+📺 My youtube channel -> www.youtube.com/@meraklimuhendis<br>
 📫 How to reach me -> bilgi@mehmetyagizorhan.com
 <br>
 
@@ -16,7 +16,7 @@
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-285f86?style=for-the-badge&logo=MySQL&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-c86a70?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-4090df?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-244336?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-285f86?style=for-the-badge&logo=MySQL&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-c86a70?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-4090df?style=for-the-badge&logo=docker&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-512555?style=for-the-badge&logo=Apache&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 # 📊 GitHub Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meraklimuhendis&theme=github_dark)
