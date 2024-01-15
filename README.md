@@ -10,7 +10,7 @@
 ## 🌐 Socials:
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCk_O3kkGkbhwtvOCnFR6yLg?logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCk_O3kkGkbhwtvOCnFR6yLg) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3670A0.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myagizorhan/) [![Gmail](https://img.shields.io/badge/Gmail-%23EE4C2C.svg?logo=Gmail&logoColor=white)](mailto:myagizorhan@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3670A0.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetyagizorhan/) [![Gmail](https://img.shields.io/badge/Gmail-%23EE4C2C.svg?logo=Gmail&logoColor=white)](mailto:myagizorhan@gmail.com) 
 
 <a href="https://ko-fi.com/meraklimuhendis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
